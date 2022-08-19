@@ -1,0 +1,121 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.logopic,.webname,.sociallogos,.part2icons {
+ 
+    display: inline-block;
+}
+
+.del {
+    font-family: 'Dancing Script', cursive;
+    line-height: 0px;
+    
+}
+
+.firstone {
+    opacity: 0.3;
+}
+
+.sociallogos, .part2icons {
+    position: relative;
+    left: 350px;
+}
+.part2icons {
+    position: relative;
+    left: 370px;
+}
+
+.main-header {
+    line-height: 0px;
+}
+.secondone {
+    opacity: 0.3;
+}
+.print{
+    position: relative;
+    left: 770px;
+}
+span {
+    font-size: small;
+    opacity: 0.3;
+}
+.choco{
+    width: 100%;
+}
+.dis {
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.recipie{
+  position: relative;
+  color: black; 
+}
+.recipie img {
+    width: 100%;
+}
+
+.recipie table {
+    line-height: 1.5;
+    position: absolute;
+    top: 32px;
+    left: 75px;
+    
+}
+
+.second {
+    padding-left: 200px;
+}
+
+.bio,.image, button {
+    display: inline-block;
+}
+.vanessa {
+    font-size: larger;
+    font-weight: 1000;
+}
+
+.bio {
+    text-align: justify;
+    line-height: 0px;
+    padding: 0px 20px 20px 20px;
+    vertical-align: top;
+    font-family: 'Roboto', sans-serif;
+}
+
+button {
+    position: relative;
+    bottom: 70px;
+    left: 600px;
+    background-color: #d8613c;
+    color: white;
+    width: 150px;
+    height: 55px;
+    border: none;
+}
+.image {
+    position: relative;
+    bottom: 5px;
+}
+
+.foot {
+    text-align: center;
+    opacity: 0.4;
+    font-family: 'Roboto', sans-serif;
+}
+ footer img {
+    position: relative;
+    left: 380px;
+    bottom: 25px;
+ }
+ .single {
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+ }
